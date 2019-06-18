@@ -1,0 +1,17 @@
+{
+  "result": [
+    {
+      "multicoil_leaderboard": {
+        "recon_zip_url": "https://storage.cloud.google.com/fastmri-challenge-submissions/my-submissions/adam_recon_val_normalized_ssim.zip?_ga=2.102241601.-1734876841.1554786193&_gac=1.218162027.1554797273.CjwKCAjwhbHlBRAMEiwAoDA348MWS0EmvKG7vpWH4d7lvs0k1jtTJ2etB8qKF_YSHXG3OlTwKuUjBhoCD1kQAvD_BwE",
+        "model_name": "UNET",
+        "model_description": " Changed a few training tactics. ",
+        "nyudata_only": true,
+        "participants": [
+          "veritas9872"
+        ],
+        "paper_url": null,
+        "code_url": null
+      }
+    }
+  ]
+}

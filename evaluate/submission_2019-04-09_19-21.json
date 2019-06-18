@@ -1,0 +1,17 @@
+{
+  "result": [
+    {
+      "multicoil_leaderboard": {
+        "recon_zip_url": "https://storage.cloud.google.com/fastmri-challenge-submissions/my-submissions/adam_recon_val_normalized_ssim.zip",
+        "model_name": "UNET",
+        "model_description": " Changed a few training tactics. ",
+        "nyudata_only": true,
+        "participants": [
+          "veritas9872"
+        ],
+        "paper_url": null,
+        "code_url": null
+      }
+    }
+  ]
+}
